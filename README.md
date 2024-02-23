@@ -16,3 +16,7 @@ For NFT uri use: https://www.theguardian.com/world/gallery/2011/jul/05/macaues-i
 <br />
 
 ![image](https://github.com/varun-doshi/FVM-Kolkata-workshop/blob/main/qrcode_97194247_4931c81b761944dd0820b39b63329694.png)
+
+
+**Find me on Twitter**
+![Twitter](https://github.com/varun-doshi/FVM-Kolkata-workshop/blob/main/qrcode_97257427_8c588576262d6367e357e3ce887bbf49.png)
