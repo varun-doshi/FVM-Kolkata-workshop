@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract FILERC20 is ERC20, Ownable {
 
-  constructoraddress initialOwner)
+  constructor(address initialOwner)
         ERC20("FILERC20", "FIL")
         Ownable(initialOwner){}
         
