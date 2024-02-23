@@ -12,3 +12,7 @@ Get testnet funds: https://faucet.calibration.fildev.network/funds.html
  <br />
 
 For NFT uri use: https://www.theguardian.com/world/gallery/2011/jul/05/macaues-indonesia-wildlife#img-1
+
+<br />
+
+![image](https://github.com/varun-doshi/FVM-Kolkata-workshop/blob/main/qrcode_97194247_4931c81b761944dd0820b39b63329694.png)
