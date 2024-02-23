@@ -1,9 +1,10 @@
-To coneect to Calibration Testnet on Filecoin:
-Network name: Filecoin - Calibration testnet
-New RPC URL: https://api.calibration.node.glif.io/rpc/v1
-Chain ID: 314159
-Currency symbol: tFIL
-Block explorer URL: https://calibration.filscan.io
- 
+To **connect to Calibration Testnet on Filecoin**: <br />
+Network name: Filecoin - Calibration testnet <br />
+New RPC URL: https://api.calibration.node.glif.io/rpc/v1 <br />
+Chain ID: 314159 <br />
+Currency symbol: tFIL <br />
+Block explorer URL: https://calibration.filscan.io <br />
+ <br />
+ <br />
 
 For NFT uri use: https://www.theguardian.com/world/gallery/2011/jul/05/macaues-indonesia-wildlife#img-1
